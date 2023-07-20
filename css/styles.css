@@ -42,3 +42,21 @@
 .gallery__link:hover {
   cursor: zoom-in;
 }
+
+.back-txt {
+  margin-bottom: 20px;
+}
+
+.back-ref {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  background-color: #110a7b;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.back-ref:hover {
+  background-color: #2e06cc;
+}
